@@ -1,20 +1,13 @@
-![](enlace)
-
-
+![](https://github.com/Roberto-Mera/Roberto-Mera/blob/master/Banner.png)
 
 ### Hi there 👋
 
-<!--
-**Roberto-Mera/Roberto-Mera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy matemático y actualmente estoy aprendiendo Análisis de Datos. Debido a mi carrera previa de matemática tengo una comprensión profunda de los principios y métodos matemáticos y estadísticos utilizados en el análisis de datos.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes de programación: Python (Numpy, Pandas, Matplotlib).
+
+Lenguaje de consulta: SQL
+
+Herramientas de visualización: Power BI, Tableau
