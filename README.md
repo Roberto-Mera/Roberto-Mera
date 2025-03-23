@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I enjoy working on personal data science projects and contributing to open-source repositories..\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at robertomera1603@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://roberto-mera.github.io/CV/cv.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://roberto-mera.github.io/CV/cv.pdf) for more details about me. I'm open to feedback and suggestions!
 
 
 <h3> 👨‍💻 Languages I use</h3>
